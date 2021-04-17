@@ -7,6 +7,7 @@ The purpose of this analysis is to determine weather patterns on the island of O
 
 ## Results
 Here is an image of the summary statistics for June: (https://github.com/azarowj/surfs_up/blob/main/JuneStatistics.png)
+
 Here is an image of the summary statistics for December: (https://github.com/azarowj/surfs_up/blob/main/DecemberStatistics.png)
 
 Below are differences between the weather in June and December on Oahu:
